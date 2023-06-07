@@ -1,0 +1,6 @@
+nug12.dat
+Num de generaciones: 				29
+Aptitud: 			815.236
+Max costo: 			640
+Mejor cromosoma: 		[4, 9, 8, 7, 3, 2, 5, 6, 10, 1, 12, 11]
+
